@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gerrowadat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.gerrup.eu
+  * I am gerrowadat (https://keybase.io/gerrowadat) on keybase.
+  * I have a public key ASCwVOtXynoc2VIDfhiKnCnMK-5rEtIlmabHwSSnS_pPVwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207323903dd9a4a779ba5d1ec190347e20750b43d1cd0918ede841aaf4ec7f22930a",
+      "host": "keybase.io",
+      "kid": "0120b054eb57ca7a1cd952037e188a9c29cc2bee6b12d22599a6c7c124a74bfa4f570a",
+      "uid": "45fb6408bb90449b7286cf830e8f4d19",
+      "username": "gerrowadat"
+    },
+    "merkle_root": {
+      "ctime": 1623019428,
+      "hash": "1fac497e68f2dfa6ffc2139df94c401f87585518afaeddcf6d888675309447eaf597ed0f13c8a54bb20e7354201ec9d11a9bb68ef44eede996c98d2c5cb6d560",
+      "hash_meta": "66b8db3ff42547fd08ea393615dd1a68622e126e0be88c01dfc766971f764329",
+      "seqno": 20127395
+    },
+    "service": {
+      "entropy": "JvvP0c1Hp2CdcWBky3u8uDVe",
+      "hostname": "www.gerrup.eu",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1623019520,
+  "expire_in": 504576000,
+  "prev": "59b02209ce68e062398a466df96f54886d886596c49add9bcf7ce9040cb98d3a",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsFTrV8p6HNlSA34YipwpzCvuaxLSJZmmx8Ekp0v6T1cKp3BheWxvYWTESpcCIcQgWbAiCc5o4GI5ikZt+W9UiG2IZZbEmt2bz3zpBAy5jTrEIFMDUni8tC+FLrX9aGZqYA+wQwkpsO7jYvqI2NAdZvs5AgHCo3NpZ8RAN80jX/BfTYq2faRnPD6mj8i9pkJbT+d7DbgnKJoApT8NJ5NSTeAR1+Bd3vDWvOWICUjklHs3nfQD7KUYFEF5CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDv0yS9RHVTp8/p+fb5lTgUsjgF10cYukJkkwjxv3MLAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gerrowadat
+
+==================================================================
